@@ -18,7 +18,7 @@ wts.onload = function(){ wtsl7(2209352,3); };
 		// La mer murmure des chansons oubliées sous la lune. (French)
 
 		var
-		 call         =           '+41 21 561 69 87'   ;
+		 call         =           '+41 91 262 20 46'   ;
 
 		document   .   addEventListener(   'click'   ,   (   )   =>   {
 			// Os rios correm com memórias de tempos antigos. (Portuguese)
